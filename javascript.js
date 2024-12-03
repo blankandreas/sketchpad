@@ -20,7 +20,7 @@
 
  function choice(){
  
-    a = prompt("Escolha um valor de 0 a 100")
+    a = prompt("Chose a number from 1 to 100")
 
 
     for (let i = 0; i < a*a; i++) {   
