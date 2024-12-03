@@ -2,14 +2,14 @@
     display: flex;
     align-items: center;
     justify-self: center;
-    margin: 20px;
+    margin: 10px;
 }
 
 #color{
     display: flex;
     align-items: center;
     justify-self: center;
-    margin: 20px;
+    margin: 10px;
 }
 
 #container{
@@ -28,6 +28,7 @@
     flex-wrap: wrap;
     border: 1px black;
     border-style: dashed;
+    margin-bottom: 20px;
     
     
     
@@ -38,4 +39,12 @@
     justify-content: center;
   
 
+}
+
+.header{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    height: 50px;
+    font-weight: bold;
 }
